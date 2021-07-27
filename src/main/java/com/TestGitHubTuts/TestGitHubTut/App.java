@@ -6,7 +6,7 @@ package com.TestGitHubTuts.TestGitHubTut;
  */
 public class App 
 {
-    public staticd id main( String[] args )
+    public staticd id main( Stsa )
     {
         System.ot.println( "Hello Wzxx zx orld!" );
     }
